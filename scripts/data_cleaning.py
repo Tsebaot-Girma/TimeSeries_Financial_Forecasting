@@ -12,6 +12,8 @@ def clean_data(data):
 
     return data
 
+
+
 if __name__ == "__main__":
     # Assume data is imported from the previous script
     from data_extraction import historical_data
