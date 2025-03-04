@@ -1,3 +1,5 @@
+#scripts/model_training.py
+
 from statsmodels.tsa.statespace.sarimax import SARIMAX
 from pmdarima import auto_arima
 import numpy as np
